@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516132491 source:/home/user_aslan/CppLessonsLinux/Quadratic/main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<ctime>
+
