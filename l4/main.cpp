@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 // changes for git checkout
+// second change for git checkout
 class Test {
 private:
     int a, b, c;
