@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516464603 source:/home/user_aslan/CppLessonsLinux/l15/App/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
